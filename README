@@ -1,3 +1,5 @@
+(forked from https://www.tablix.org/~avian/git/paswitch.git to add Nix package)
+
 paswitch is a simple commandline utility for changing the PulseAudio sink for
 all applications, in much the same way GNOME "Sound preferences" dialog
 does it.
